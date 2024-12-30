@@ -1,4 +1,4 @@
-## 👋 Abdalraheem Shuaibi.
+## Abdalraheem Shuaibi.
 
 `Computer Engineer`
 
