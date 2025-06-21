@@ -21,11 +21,18 @@
 ### 💻 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,bash,linux,tensorflow" />
   </a>
 </p>
 
-#
+<!-- Additional tools: data & ML stack -->
+<p align="left">
+  <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" title="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Scikit-Learn" title="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Keras" title="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
 
 <p align="center">
   <picture>
